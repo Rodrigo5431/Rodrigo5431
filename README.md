@@ -10,5 +10,6 @@
 ![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ## Apaixonado por tecnologia, Dev Full-Stack, Aprendendo sempre coisas novas em busca de me tornar cada vez melhor.
 
-### Email de contato:
-## rodrigokarvalho12890@gmail.com
+### Informações de contato:
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) (24) 99279-8292
+![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) rodrigokarvalho12890@gmail.com
