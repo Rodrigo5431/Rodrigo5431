@@ -4,5 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rodrigo_karvalho/)
 
 ![Rodrigo´s Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact))))
-
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]
+[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]
+[![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)]
 ## Apaixonado por tecnologia, Dev Full-Stack, Aprendendo sempre coisas novas em busca de me tornar cada vez melhor.
