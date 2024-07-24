@@ -9,3 +9,6 @@
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ## Apaixonado por tecnologia, Dev Full-Stack, Aprendendo sempre coisas novas em busca de me tornar cada vez melhor.
+
+### Email de contato:
+## rodrigokarvalho12890@gmail.com
