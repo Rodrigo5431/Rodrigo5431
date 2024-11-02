@@ -5,7 +5,7 @@
 
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rodrigo5431&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="144" alt="languages graph"  />
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=grey)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ## Apaixonado por tecnologia, Dev Full-Stack, Aprendendo sempre coisas novas em busca de me tornar cada vez melhor.
