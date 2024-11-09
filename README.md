@@ -31,9 +31,17 @@
  </div>
  
 <div align= "center">
- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
- ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
- ![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+<a href="https://reactjs.org/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=React&logo=react&label=&color=20232A&logoColor=61DAFB&labelColor=&style=for-the-badge" height="25" alt="React logo" />
+</a>
+
+<a href="https://reactnative.dev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=React%20Native&logo=react&label=&color=20232A&logoColor=61DAFB&labelColor=&style=for-the-badge" height="25" alt="React Native logo" />
+</a>
+
+<a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=SpringBoot&logo=spring&label=&color=6DB33F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Spring Boot logo" />
+</a>
 </div>
 
 ### Informações de contato:
