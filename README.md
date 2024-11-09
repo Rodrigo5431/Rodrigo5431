@@ -34,6 +34,9 @@
  </div>
  
 <div align= "center">
+<a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=SpringBoot&logo=spring&label=&color=6DB33F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Spring Boot logo" />
+</a>
 <a href="https://reactjs.org/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=React&logo=react&label=&color=20232A&logoColor=61DAFB&labelColor=&style=for-the-badge" height="25" alt="React logo" />
 </a>
@@ -42,12 +45,11 @@
     <img src="https://img.shields.io/static/v1?message=React%20Native&logo=react&label=&color=20232A&logoColor=61DAFB&labelColor=&style=for-the-badge" height="25" alt="React Native logo" />
 </a>
 
-<a href="https://spring.io/projects/spring-boot" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=SpringBoot&logo=spring&label=&color=6DB33F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Spring Boot logo" />
-</a>
 </div>
 
 ### Informações de contato:
+###
+###
 <div>
    <img align="center" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> rodrigokarvalho12890@gmail.com
    <br>
