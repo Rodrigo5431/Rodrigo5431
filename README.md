@@ -46,6 +46,10 @@
     <img src="https://img.shields.io/static/v1?message=React%20Native&logo=react&label=&color=20232A&logoColor=61DAFB&labelColor=&style=for-the-badge" height="25" alt="React Native logo" />
 </a>
 
+<a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=PostgreSQL&logo=postgresql&label=&color=336791&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="PostgreSQL logo" />
+</a>
+
 </div>
 
 ### Informações de contato:
