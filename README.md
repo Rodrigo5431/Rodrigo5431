@@ -56,8 +56,11 @@
 ###
 ###
 <div>
+   <a href="https://www.linkedin.com/in/devrodrigo-carvalho/" target="_blank">
+      <img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+   </a>
+   <br><br>
    <img align="center" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> rodrigokarvalho12890@gmail.com
-   <br>
-   <br>
+   <br><br>
    <img align="center" alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> +55 (24) 99279-8292
 </div><br>
