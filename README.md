@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">My name is Rodrigo Carvalho Lima and I'm a fullstack developer.</h4>
+<h3 align="center">My name is Rodrigo and I'm a fullstack developer.</h4>
 
 ###
 
