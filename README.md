@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="center">Some of my projects you will find here! im always studying and putting my projects here, at most i use: Java, SpringBoot, Postgres, JavaScript, React and React Native.</h5>
+<h4 align="center">Some of my projects you will find here! im always studying and putting my projects here, at most i use: Java, SpringBoot, Postgresql, JavaScript, React and React Native.</h5>
 
 ###
 
